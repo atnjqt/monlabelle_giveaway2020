@@ -25,8 +25,18 @@ OKAY OKAY 👌 NOW THAT I HAVE YOUR ATTENTION! To win this lovely lil giveaway (
 
 ```
 
-## AND THE WINNER IS...
+#### AND THE WINNER IS...
+
+first winner is --> `ashleys_adventure`
 
 ![](./winner.png)
 
+
+## OKAY SO THEY WERE NOT HERE... 
+
+next winner is --> `ramblingaries`
+![](./winner2.png) 
+
 Randomly generated [here](./monlabelle_random_winner.ipynb)!
+
+lmao
