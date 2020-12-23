@@ -27,16 +27,27 @@ OKAY OKAY 👌 NOW THAT I HAVE YOUR ATTENTION! To win this lovely lil giveaway (
 
 #### AND THE WINNER IS...
 
-first winner is --> `ashleys_adventure`
+first winner is --> `@ashleys_adventure`
 
 ![](./winner.png)
 
 
-## OKAY SO THEY WERE NOT HERE... 
+#### OKAY SO THEY WERE NOT HERE... 
 
-next winner is --> `ramblingaries`
+next winner is --> `@ramblingaries`
+
 ![](./winner2.png) 
 
 Randomly generated [here](./monlabelle_random_winner.ipynb)!
 
 lmao
+
+_________
+
+## ALRIGHT OKAY SO THEY ALSO WERE NOT HERE... 
+
+AND THE WINNER IS --> `@allisonjkasper`
+
+![](./winner3.png)
+
+![](https://media.giphy.com/media/f6IVo1ohyzkDiFpSfW/giphy.gif)
